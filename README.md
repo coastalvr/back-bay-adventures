@@ -41,6 +41,13 @@ To add gallery photos, drop them in `img/` and add a block in `gallery.html`:
 
 Add `class="wide"` to make a photo span two columns.
 
+## Live preview
+
+https://coastalvr.github.io/back-bay-adventures/
+
+Hosted with GitHub Pages from the `main` branch of github.com/coastalvr/back-bay-adventures.
+Any change committed and pushed to `main` goes live within a minute or two.
+
 ## Preview locally
 
 ```bash
