@@ -1,0 +1,13 @@
+{
+  "name": "back-bay-adventures",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Back Bay Adventures website. Static HTML, CSS and images. No framework.",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

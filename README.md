@@ -48,6 +48,16 @@ https://coastalvr.github.io/back-bay-adventures/
 Hosted with GitHub Pages from the `main` branch of github.com/coastalvr/back-bay-adventures.
 Any change committed and pushed to `main` goes live within a minute or two.
 
+## Hosting on Hostinger
+
+The repo includes a `package.json` so Hostinger's GitHub import accepts it.
+
+- Build command: `npm run build`
+- Output directory: `dist`
+- Start command, only if it asks for one: `npm start`
+
+There are no dependencies to install. The build simply copies the pages, `css/`, `js/` and `img/` into `dist/`.
+
 ## Preview locally
 
 ```bash
